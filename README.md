@@ -1,5 +1,7 @@
 # README
 
+This is a project I created to learn Ruby on Rails while studying at FIN bootcamp by Fintual.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
